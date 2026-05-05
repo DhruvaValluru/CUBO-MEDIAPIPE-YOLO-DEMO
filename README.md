@@ -60,3 +60,40 @@ Edit the constants at the top of `distraction_detector.py`:
 - MediaPipe
 - Ultralytics (YOLOv8)
 - NumPy
+
+---
+
+## 📱 Connected Project: CUBO Synced App
+
+<p align="center">
+  <img src="assets/cubo-app-screenshot.png" alt="CUBO App Screenshot" width="280"/>
+</p>
+
+An **AI-powered driving safety app** that connects to the CUBO dash device to monitor distracted driving, track driver behavior, and give parents or users clear reports to improve safety.
+
+The app features:
+- **Driver Distraction Score** — real-time safety rating
+- **Distraction Time Tracking** — daily breakdowns of distraction events
+- **Goals & Insights** — actionable goals like minimizing phone distractions and keeping attention on the highway
+- **Trends Dashboard** — track distractions per minute over time
+- **App Focus Block** — block distracting apps while driving
+
+### 🎥 App Demo
+
+[![CUBO App Demo](https://img.youtube.com/vi/7hDUQYFQ1TE/0.jpg)](https://www.youtube.com/watch?v=7hDUQYFQ1TE)
+
+▶️ [Watch the full app demo on YouTube](https://www.youtube.com/watch?v=7hDUQYFQ1TE)
+
+### 🔗 App Source Code
+
+[![GitHub](https://img.shields.io/badge/GitHub-CUBO--APP--SYNCE4DDEVICE-181717?style=for-the-badge&logo=github)](https://github.com/DhruvaValluru/CUBO-APP-SYNCE4DDEVICE)
+
+---
+
+<p align="center">
+  <a href="mailto:dhruva.valluru@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dhruvavalluru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://github.com/DhruvaValluru"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
